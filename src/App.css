@@ -28,3 +28,15 @@
 .card img {
   max-width: 100%;
 }
+
+.favorites {
+  display: flex;
+  width: 300px;
+  height: auto;
+  box-shadow: 5px 5px 5px rgb(114, 114, 114);
+  border-radius: 5px;
+  padding: 10px;
+  background-color: rgb(46, 46, 46);
+  color: whitesmoke;
+  margin-bottom: 10px;
+}
